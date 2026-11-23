@@ -23,7 +23,7 @@ O que mais me diverte é pegar um problema real, entender como ele funciona e co
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Vitor-Brosque/rodoviariaos-showcase">RodoviariaOS</a></h3>
       <img src="https://img.shields.io/badge/em%20uso%20na%20loja-2E9E5B?style=flat-square" alt="Em uso na loja"><br><br>
-      O sistema que organiza a revenda da minha família. A mensagem do cliente entra sozinha na fila de um vendedor, cada carro tem uma ficha do preço pago até a venda, e cada sócio vê o próprio caixa sem planilha.
+      Criei para a revenda da minha família. Começou como um CRM para o vendedor não se perder no meio de centenas de leads: o sistema mostra quem precisa ser chamado e de onde cada um veio. Depois ganhou o financeiro e uma IA que ajuda a cuidar da loja.
       <br><br>
       <sub>TypeScript · Next.js · Fastify · PostgreSQL</sub>
     </td>
