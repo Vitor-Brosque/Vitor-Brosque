@@ -1,4 +1,8 @@
-<h1 align="center">Oi, eu sou o Vitor 👋</h1>
+<p align="center">
+  <a href="https://vitor-brosque.github.io">
+    <img src="./banner.svg" width="100%" alt="Vitor Brosque, Backend e Dados. Do balcão da revenda ao sistema que roda nela. Clique para abrir o portfólio.">
+  </a>
+</p>
 
 <p align="center">
   Estudante de Sistemas de Informação na UNESP, em Bauru/SP.<br>
