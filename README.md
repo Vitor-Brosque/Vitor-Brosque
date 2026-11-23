@@ -37,7 +37,7 @@ O que mais me diverte é pegar um problema real, entender como ele funciona e co
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Life RPG</h3>
+      <h3><a href="https://github.com/Vitor-Brosque/life-rpg">Life RPG</a></h3>
       <img src="https://img.shields.io/badge/uso%20pessoal-5E6B67?style=flat-square" alt="Uso pessoal"><br><br>
       Nasceu de um problema meu: eu sei o que preciso fazer, mas travo na hora de começar. É um app de estudo e rotina com visual de RPG em pixel art, que mostra uma missão por vez e funciona sem internet. Uso todo dia.
       <br><br>
