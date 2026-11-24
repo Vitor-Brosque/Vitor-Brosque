@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://vitor-brosque.github.io">
-    <img src="./banner.svg" width="100%" alt="Vitor Brosque, Backend e Dados. Do balcão da revenda ao sistema que roda nela. Clique para abrir o portfólio.">
-  </a>
-</p>
+<h1 align="center">Oi, eu sou o Vitor 👋</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação na UNESP, em Bauru/SP.<br>
-  Procuro meu primeiro estágio ou vaga júnior em <b>Backend</b> ou <b>Engenharia de Dados</b>.
+  <b>Do balcão da revenda ao sistema que roda nela.</b><br>
+  Estudante de Sistemas de Informação na UNESP, em Bauru. Aberto a estágio em <b>Backend e Dados</b>.
 </p>
 
 <p align="center">
@@ -16,54 +12,67 @@
 
 ---
 
-Comecei pelo balcão, não pelo código. Na **Rodoviária Veículos**, a revenda da minha família, eu cuidava de leads, anúncios, estoque e atendimento pelo WhatsApp. Todo dia via cliente se perdendo na conversa, planilha desatualizada e sócio fazendo conta à mão no fim do mês. Foi para resolver isso que comecei a programar.
+Comecei atendendo clientes na Rodoviária Veículos, a loja de carros da minha família, e hoje construo o software que organiza a loja. Cheguei à tecnologia pelo lado do negócio, e isso muda como eu olho para um sistema.
 
-O que mais me diverte é pegar um problema real, entender como ele funciona e construir algo que as pessoas usem de verdade.
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>~1.000</h2>leads recebidos pelo sistema que eu construí, desde jul/2026</td>
+    <td align="center" width="33%"><h2>~11.000</h2>mensagens de WhatsApp registradas por ele, de ago a nov/2026</td>
+    <td align="center" width="33%"><h2>3</h2>projetos: 1 em produção e 2 de código aberto</td>
+  </tr>
+</table>
 
-## No que estou trabalhando
+## Projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vitor-Brosque/rodoviariaos-showcase">RodoviariaOS</a></h3>
-      <img src="https://img.shields.io/badge/em%20uso%20na%20loja-2E9E5B?style=flat-square" alt="Em uso na loja"><br><br>
-      Criei para a revenda da minha família. Começou como um CRM para o vendedor não se perder no meio de centenas de leads: o sistema mostra quem precisa ser chamado e de onde cada um veio. Depois ganhou o financeiro e uma IA que ajuda a cuidar da loja.
+      <h3>RodoviariaOS</h3>
+      <img src="https://img.shields.io/badge/em%20produ%C3%A7%C3%A3o-2E9E5B?style=flat-square" alt="Em produção"> <img src="https://img.shields.io/badge/c%C3%B3digo%20fechado-5E6B67?style=flat-square" alt="Código fechado"><br><br>
+      O sistema que não deixa lead se perder e mostra quanto cada carro deu de lucro, na revenda da minha família. CRM, WhatsApp e estoque em uso todos os dias; financeiro, assistente e radar de mercado prontos e entrando em uso.
       <br><br>
-      <sub>TypeScript · Next.js · Fastify · PostgreSQL</sub>
+      <a href="https://vitor-brosque.github.io/projetos/rodoviariaos/">Estudo de caso</a> · <a href="https://github.com/Vitor-Brosque/rodoviariaos-showcase">Vitrine</a><br>
+      <sub>TypeScript · Next.js · Fastify · PostgreSQL · Drizzle · Zod</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vitor-Brosque/TechNews">TechNews</a></h3>
-      <img src="https://img.shields.io/badge/em%20andamento-F2B705?style=flat-square" alt="Em andamento"><br><br>
-      Meu laboratório de engenharia de dados. Busca notícias de tecnologia no Hacker News, confere se estão completas, extrai o texto da página e guarda no PostgreSQL sem repetir. Estou indo devagar, para entender cada etapa.
+      <h3>Life RPG</h3>
+      <img src="https://img.shields.io/badge/c%C3%B3digo%20aberto-2E9E5B?style=flat-square" alt="Código aberto"> <img src="https://img.shields.io/badge/em%20uso%20no%20PC-5E6B67?style=flat-square" alt="Em uso no PC"><br><br>
+      App em pixel art que transforma rotina e estudo num jogo, feito para ajudar nos dias difíceis. Mostra uma missão por vez, funciona sem internet e sincroniza os aparelhos quase em tempo real.
       <br><br>
-      <sub>Python · PostgreSQL</sub>
+      <a href="https://vitor-brosque.github.io/projetos/life-rpg/">Estudo de caso</a> · <a href="https://github.com/Vitor-Brosque/life-rpg">Código</a><br>
+      <sub>TypeScript · React · Fastify · SQLite · FSRS</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Vitor-Brosque/life-rpg">Life RPG</a></h3>
-      <img src="https://img.shields.io/badge/uso%20pessoal-5E6B67?style=flat-square" alt="Uso pessoal"><br><br>
-      Nasceu de um problema meu: eu sei o que preciso fazer, mas travo na hora de começar. É um app de estudo e rotina com visual de RPG em pixel art, que mostra uma missão por vez e funciona sem internet. Uso todo dia.
+      <h3>TechNews</h3>
+      <img src="https://img.shields.io/badge/em%20desenvolvimento-F2B705?style=flat-square" alt="Em desenvolvimento"> <img src="https://img.shields.io/badge/c%C3%B3digo%20aberto-2E9E5B?style=flat-square" alt="Código aberto"><br><br>
+      Pipeline em Python que reúne as notícias de tecnologia dos temas que eu acompanho, para eu ler o que importa toda manhã. É também o meu laboratório de engenharia de dados.
       <br><br>
-      <sub>TypeScript · React · Fastify · SQLite</sub>
+      <a href="https://vitor-brosque.github.io/projetos/technews/">Estudo de caso</a> · <a href="https://github.com/Vitor-Brosque/TechNews">Código</a><br>
+      <sub>Python · PostgreSQL · psycopg · trafilatura</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>O que estou aprendendo</h3>
-      <ul>
-        <li>Modelagem de dados e SQL</li>
-        <li>Pipelines de coleta e validação</li>
-        <li>APIs e integrações (WhatsApp, Meta)</li>
-        <li>Testes automatizados</li>
-        <li>Docker e deploy</li>
-      </ul>
+      <h3>Este portfólio</h3>
+      <img src="https://img.shields.io/badge/c%C3%B3digo%20aberto-2E9E5B?style=flat-square" alt="Código aberto"><br><br>
+      Um estudo de caso por projeto, em português e inglês, cada um com a cara do próprio projeto. Os testes rodam antes de cada publicação.
+      <br><br>
+      <a href="https://vitor-brosque.github.io">Site</a> · <a href="https://github.com/Vitor-Brosque/Vitor-Brosque.github.io">Código</a><br>
+      <sub>Astro · TypeScript · Vitest · Playwright</sub>
     </td>
   </tr>
 </table>
 
-## Ferramentas que uso
+## Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,ts,nodejs,react,nextjs,docker,git,linux&theme=light" alt="Python, PostgreSQL, TypeScript, Node.js, React, Next.js, Docker, Git, Linux">
+  <img src="https://skillicons.dev/icons?i=ts,python,postgres,nodejs,react,nextjs,astro,sqlite,docker,linux,git&theme=light" alt="TypeScript, Python, PostgreSQL, Node.js, React, Next.js, Astro, SQLite, Docker, Linux, Git">
 </p>
 
-Quer conversar sobre algum projeto ou vaga? Me chama no [LinkedIn](https://www.linkedin.com/in/vitorbrosque).
+Se você tem uma vaga de estágio ou júnior em Backend ou Dados, ou quer trocar uma ideia sobre algum projeto, me chama no [LinkedIn](https://www.linkedin.com/in/vitorbrosque).
+
+<details>
+<summary><b>In English</b></summary>
+<br>
+I'm Vitor, an Information Systems student at UNESP, in Brazil, open to internships in Backend and Data. I started out serving customers at my family's car dealership, and now I build the software that keeps the dealership organized: RodoviariaOS, in production since July 2026. I also build Life RPG, an open-source offline-first app, and TechNews, a Python data pipeline. Portfolio in English: <a href="https://vitor-brosque.github.io/en/">vitor-brosque.github.io/en</a>.
+</details>
